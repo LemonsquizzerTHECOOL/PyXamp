@@ -1,4 +1,4 @@
-#PyXamp
+# PyXamp
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83177374/232621042-6a69fa6d-93bd-4616-88b1-3b9c9d980fb8.png" alt="PyXampLogo" width="400" height="400">
