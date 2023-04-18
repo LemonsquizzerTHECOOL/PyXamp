@@ -1,10 +1,21 @@
 # PyXamp
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83177374/232621042-6a69fa6d-93bd-4616-88b1-3b9c9d980fb8.png" alt="PyXampLogo" width="400" height="400">
+  <img src="https://user-images.githubusercontent.com/83177374/232621042-6a69fa6d-93bd-4616-88b1-3b9c9d980fb8.png" alt="PyXampLogo](https://user-images.githubusercontent.com/83177374/232883224-8cc9f6c5-56a7-4e40-b541-22b00327110c.png" width="400" height="400">
 </p>
 
+<div align="center">
+  
+![Repo Stars](https://img.shields.io/github/stars/LemonsquizzerTHECOOL/PyXamp?color=gold&logo=github&style=for-the-badge)
+![Repo Watchers](https://img.shields.io/github/watchers/LemonsquizzerTHECOOL/PyXamp?color=teal&logo=Github&style=for-the-badge)
+![Repo Forks](https://img.shields.io/github/forks/LemonsquizzerTHECOOL/PyXamp?color=blueviolet&logo=github&style=for-the-badge)
+  
+</div>
 
+<div align="center">
+  
+![Repo File Size](https://img.shields.io/github/repo-size/LemonsquizzerTHECOOL/PyXamp?logo=files&style=for-the-badge)
+  
 ## Overview
 Welcome to the **PyXamp** repository! This repository contains a collection of Python examples, code snippets, and demos that demonstrate various programming concepts, techniques, and best practices. The examples are organized into folders based on different topics or categories, making it easy to navigate and explore different areas of Python programming.
 
