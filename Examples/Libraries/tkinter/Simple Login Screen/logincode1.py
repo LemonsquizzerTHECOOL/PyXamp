@@ -30,7 +30,7 @@ def login():
         tkmb.showerror(title="Login Failed", message="Invalid Username and password")
 
 
-label = ctk.CTkLabel(app, text="Just Some Optional Text")  # Change it however you want (or delete this line)
+label = ctk.CTkLabel(app, text="Welcome!")
 label.pack(pady=20)
 
 frame = ctk.CTkFrame(master=app)
